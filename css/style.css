@@ -324,9 +324,9 @@ section {
   }
   
   .about .image {
-    background: url("img/my_img.jpg") center center no-repeat;
+    background: url("../img/my_img.jpg") center center no-repeat;
     background-size: cover;
-    min-height: 500px;
+    min-height: 400px;
   }
   
   .about .skills-content {
