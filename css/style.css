@@ -66,6 +66,13 @@ hr{
     font-family:"Raleway" sans-serif;
 }
 
+.navbar-dark .navbar-nav .nav-link.active{
+    color: #b0b5b9;
+ }
+.navbar-dark .navbar-nav .nav-link.active:hover{
+    color:#dbd9d9
+ }
+
 .jumbotron{
     background-image: url('https://images.unsplash.com/photo-1511376777868-611b54f68947?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80');
     /* background-size: cover; */
